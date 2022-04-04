@@ -1,0 +1,5 @@
+2f)No se ve el archivo tp2_1_2.cpp porque estoy en la rama Main y el archivo está en la rama Opcion_2
+
+Cuando agrego el archivo Respuestas a la rama main sólo aparece allí.
+
+Cuando hago merge se combinan ambas ramas y se observan todos los archivos en la carpeta del repositorio local
